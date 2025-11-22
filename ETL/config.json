@@ -1,0 +1,5 @@
+{
+  "dublicatesExportFilePath": "duplicates.csv",
+  "BatchSize": 1000,
+  "ConnectionString": "Data Source=localhost;Initial Catalog=msdb;User ID=SA;Password=YourStrong!Passw0rd;TrustServerCertificate=True"
+}
